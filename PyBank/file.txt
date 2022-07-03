@@ -1,0 +1,7 @@
+Financial Analysis
+--------------------------------------------------------------------------------
+Total Months: 86.
+The total profit over the entire period is $38382578.
+The average of the total profit over the entire period is $7803.476744186047.
+The greatest increase is $1170593, and its date is Feb-2012.
+The greatest decrease is $-1196225, and its date is Sep-2013.
